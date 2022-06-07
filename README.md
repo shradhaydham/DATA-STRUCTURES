@@ -3,7 +3,7 @@
 
 **DS** programs solved from scratch when I had started learning C and Structures.
 
-**__________________________________________________________________________________________________**
+**_______________________________________________________________________**
                **Stack Queue Linked Lists Binary Search Tree 
 
 Most effective logic with proper **documentation** are done in these programs..
